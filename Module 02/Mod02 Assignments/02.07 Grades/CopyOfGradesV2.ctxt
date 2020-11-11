@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CopyOfGradesV2
+comment0.text=\r\n\ Write\ a\ program\ that\ will\ calculate\ the\ total\ points\ and\ average\ grade\ each\r\n\ time\ a\ new\ score\ is\ added\ to\ the\ total.\ \r\n\r\n\ @author\ Luis\ Vega\r\n\ @version\ 8/3/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

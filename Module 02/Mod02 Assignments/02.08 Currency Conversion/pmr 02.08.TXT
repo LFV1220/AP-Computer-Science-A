@@ -1,0 +1,27 @@
+PROJECT TITLE: 02.08 Challenge Program Assignment
+VERSION or DATE: 8/3/19
+AUTHORS: Luis Vega
+
+********************************** P M R ***************************************
+<+s>: After the beginning, I was quickly able to understand what the assignment
+      was asking and was able to complete most of the assignment. I used many
+      arithmetic operators.
+
+<-s>: Near the beginning, it took me a while to get me going and understand what
+      the assignment was asking (hence the challenge). Another part of the
+      assignment that confused me was the last/end part (with the souvenir
+      purchases). I didn't really understand what I was supposed to do there, so 
+      I completed the code by (without changing the variables) adding other lines
+      of code using arithmetic operations to get the near the expected output. 
+********************************************************************************
+
+This program was about converting currencies and using exchange rates to find out
+how much is being spent in a supposed vacation(s). 
+
+In the future, I will continue to do my best in completing the program and what is 
+required in the assignment and if I can't figure it out I wont hesitate to ask questions.  
+
+For Instruction #6, both A (Bank of America) and B (ExchangeRate) were used in the
+program.
+Bank of America:    https://www.bankofamerica.com/foreign-exchange/foreign-currency-exchange.go
+ExchangeRate:       http://www.exchangerate.com/

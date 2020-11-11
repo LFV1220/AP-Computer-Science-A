@@ -1,0 +1,16 @@
+PROJECT TITLE: 02.07 Pitfalls, Surprises, and Shortcuts Assignment
+VERSION or DATE: 8/3/19
+AUTHORS: Luis Vega
+
+*******************************************************************
+<+s>: I learned about different operators (such as the increment 
+      operator) and learned how to properly cast variables, such as
+      ints or doubles, using the correct syntax. 
+      
+<-s>: Although everything made sense, this assignment did take me a
+      little bit to get started in order to think about what I was
+      doing to make sure I was doing it right. 
+*******************************************************************
+
+In the future, I will keep thinking about what is happening (and what
+each line of code means for everything) in order to keep doing well.  

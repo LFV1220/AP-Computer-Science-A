@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Terrain
+comment0.text=\n\ This\ class\ defines\ a\ basic\ Terrain.\n\n\ @author\ Luis\ Vega\n\ @version\ 1/30/20\n
+comment1.params=l\ w
+comment1.target=Terrain(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTerrainSize()
+comment3.params=
+comment3.target=int\ getLength()
+comment4.params=
+comment4.target=int\ getWidth()
+numComments=5

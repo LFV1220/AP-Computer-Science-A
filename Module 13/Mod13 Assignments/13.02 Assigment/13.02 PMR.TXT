@@ -1,0 +1,17 @@
+PROJECT TITLE: 13.02 Assignment
+VERSION or DATE: 1/30/20
+AUTHORS: Luis Vega
+
+Create a class hierarchy of simple terrains that might be used in a 
+graphical video game.
+
+------------------------------------------------------------------------
+<+s>: This was a very comprehensible assigment and one of my favorites
+      of the course so far. I was able to understand the concepts of 
+      class hierarchies really easily, it just clicked. 
+
+<-s>: The only issue I had, that was resolved fairly quickly, was trying
+      to reference the private instance variables in other classes. I 
+      was able to fix this by creating public accessor/getter methods for
+      the subclasses. 
+------------------------------------------------------------------------

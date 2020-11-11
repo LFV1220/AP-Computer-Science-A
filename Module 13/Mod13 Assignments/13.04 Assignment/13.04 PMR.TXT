@@ -1,0 +1,18 @@
+PROJECT TITLE: 13.04 Overriding Methods Assignment
+VERSION or DATE: 2/07/20
+AUTHORS: Luis Vega
+
+Modify the shape classes override the toString and equals methods.
+
+------------------------------------------------------------------------
+<+s>: Although this assignment was a little difficult, I was able to
+      figure out how to get through some of the issues. For example, I 
+      was able to cast some of the classes in order to fix the equals
+      method. Some of the easier aspects of the assignment was creating 
+      the methods, like the toString method, in the classes.
+
+<-s>: Like said before, I thought this assignment was a little difficult.
+      This is because I had some issues with the classes and the equals
+      method and finding a way to accurately compare the shapes (at the
+      end) through different classes. 
+------------------------------------------------------------------------

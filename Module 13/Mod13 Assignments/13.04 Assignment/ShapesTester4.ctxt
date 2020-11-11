@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ShapesTester4
+comment0.text=\n\ Write\ a\ description\ of\ class\ ShapesTester4\ here.\n\n\ @author\ Luis\ Vega\n\ @version\ 02/07/20\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=shape
+comment2.target=void\ showEffectBoth(Rectangle4)
+comment3.params=a\ b
+comment3.target=boolean\ equals(Rectangle4,\ Rectangle4)
+numComments=4

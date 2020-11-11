@@ -1,0 +1,16 @@
+PROJECT TITLE: 13.03 Polymorphism Assignment
+VERSION or DATE: 02/04/20
+AUTHORS: Luis Vega
+
+Modify the classes related to circles to demonstrate polymorphism. 
+
+------------------------------------------------------------------------
+<+s>: After understanding what to do for this assignment, it was not too
+      hard after re-reading the lesson. I would say based on this 
+      assignment, even though many of the classes were already there, I
+      would say that I understand polymorphism
+      
+<-s>: At first, I didn't understand the directions and what they were 
+      asking. Even after re-reading both the lesson and eIMAC, I still
+      had some trouble until I figured out the getClass() and getName().
+------------------------------------------------------------------------

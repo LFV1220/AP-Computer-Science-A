@@ -1,0 +1,14 @@
+PROJECT TITLE: 13.05 Magpie Lab
+VERSION or DATE: 2/21/20
+AUTHORS: Luis Vega
+
+------------------------------------------------------------------------
+<+s>: The worksheet was very simple and straightforward. The code was
+      pretty simple to understand, especially adding other responses to
+      the getResponse() method.
+
+<-s>: One of the only difficult parts of this assignment was changing the
+      getResponse() method's way of getting responses by switching 
+      the if else statements with arrays. 
+------------------------------------------------------------------------
+

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Square4
+comment0.text=\n\ Write\ a\ description\ of\ class\ Square4\ here.\n\n\ @author\ Luis\ Vega\n\ @version\ 2/07/20\n
+comment1.params=l\ w
+comment1.target=Square4(int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Square4\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

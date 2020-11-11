@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OpenOcean
+comment0.text=\n\ Write\ a\ description\ of\ class\ OpenOcean\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=length\ width\ coralReefs\ fishSpecies
+comment1.target=OpenOcean(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getOpenOceanSize()
+numComments=3

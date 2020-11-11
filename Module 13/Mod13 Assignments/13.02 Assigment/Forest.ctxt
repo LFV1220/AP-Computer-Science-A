@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Forest
+comment0.text=\n\ Write\ a\ description\ of\ class\ Forest\ here.\n\n\ @author\ Luis\ Vega\n\ @version\ 1/30/20\n
+comment1.params=length\ width\ trees
+comment1.target=Forest(int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getForestSize()
+comment3.params=
+comment3.target=int\ getTrees()
+numComments=4

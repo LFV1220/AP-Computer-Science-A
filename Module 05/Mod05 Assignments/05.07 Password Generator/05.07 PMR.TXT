@@ -1,0 +1,21 @@
+PROJECT TITLE: 05.07 Secret Passcodes
+VERSION or DATE: 10/8/19
+AUTHORS: Luis Vega
+
+Write a program to generate random passwords; the user should be able 
+to select the character set and the length.
+
+----------------------------- P M R ------------------------------------
+<+s>: This was suprisingly easy and quick for me to finish, I wasn't 
+      expecting it to be simple (albeit a little bit of repetition). I
+      enjoyed making this program because, not only was it satisfying 
+      getting the wanted results, but since it gave me more confidence
+      in programming in java. 
+
+<-s>: There weren't many issues I ran into, and if I did they were quick
+      patches. A few of the issues I encountered was an infinite loop of
+      the password not being long enough and making userChoice quit when
+      it equals 5.
+------------------------------------------------------------------------
+
+In the future, I will try to get myself caught up (few weeks behind).

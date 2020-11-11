@@ -1,0 +1,19 @@
+PROJECT TITLE: 03.09 Challenge Program
+VERSION or DATE: 8/21/19
+AUTHORS: Luis Vega
+
+The purpose of this program is to simulate an online purchase and create
+an e-Receipt (combining data from the user input).
+
+****************************** P M R *************************************
+<+s>: Using the println() allowed me to add statements and combine them
+      with the Scanner to add user input and create the program.
+
+<-s>: Although I didn't have much trouble with the program, I did have
+      some trouble with the substring dot notation. I also didn't really
+      understand parse() so I didn't know how to incorporate it  into the
+      program.
+**************************************************************************
+
+In the future, I need to get more practice with things such as the dot
+notations and parse(). 

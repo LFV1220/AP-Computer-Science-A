@@ -1,0 +1,24 @@
+PROJECT TITLE: 03.07 Accepting User Input Assignment
+VERSION or DATE: 8/14/19
+AUTHORS: Luis Vega
+
+In this assignment, I changed GradesV2 (from a previous project) to
+GradesV3 by updating the program by adding/using different methods 
+of a Scanner class.
+
+******************************* P M R ************************************
+
+<+s>: The more I used the Scanner class, I am slowing starting to understand
+      it way more. Also the pattern was easy to continue because of the last
+      assignment.
+
+
+<-s>: The different methods for the Scanner class can get a little tricky
+      and one of the biggest challenges was formatting everything to look
+      as user-friendly and what to do with the Scanners.  
+     
+**************************************************************************
+
+In the future, in order to grasp new concepts and new methods/classes, I 
+I personally find it very useful to not only read the material, but to
+continuosly practice the new material and concepts.

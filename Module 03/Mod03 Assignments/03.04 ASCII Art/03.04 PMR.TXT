@@ -1,0 +1,24 @@
+PROJECT TITLE: 03.04 ASCII Art 
+VERSION or DATE: 8/11/19
+AUTHORS: Luis Vega
+
+In this assignment (03.04 ASCII Art), I created a star 
+using asterisks, string literals, print() method, and 
+escape sequences. 
+
+********************* P M R ****************************
+<+s>: One of the easier parts of the assignment wasknowing
+      how to use the string literal and how to correctly
+      place the asterisks (from previous lessons).
+      
+<-s>: One thing that confused me while making the ASCII
+      Art was when I could only use the print() method 
+      (not the println() method) with escape sequences.
+      It took me a little to find out how to use it in 
+      this instance, since I had to look back at the 
+      lessons. 
+********************************************************
+ 
+In the future, I will keep learning as much as I can and 
+get as much practice as I can. This will greatly help with
+confusions in the future when I don't know how to continue.

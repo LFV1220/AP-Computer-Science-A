@@ -1,0 +1,16 @@
+PROJECT TITLE: 04.05 BMI Calculator
+VERSION or DATE: 09/16/19
+AUTHORS: Luis Vega
+
+Write a program to calculate Body Mass Index (BMI) given a person's 
+height and weight.
+
+----------------------------- P M R ---------------------------------------
+<+s>: I understood topics such as parsing and the else-if method to 
+      structure and write in the proper syntax.
+
+<-s>: I don't understand how to round decimals (right 2 places) and don't
+      understand how to convert and int or double into a string.
+---------------------------------------------------------------------------
+
+In the future, I will ask more questions on things I need help with.

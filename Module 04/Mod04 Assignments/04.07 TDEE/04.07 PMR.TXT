@@ -1,0 +1,18 @@
+PROJECT TITLE: 04.07 TDEE
+VERSION or DATE: 9/22/19
+AUTHORS: Luis Vega
+
+Write a program to calculate total daily energy expenditure.
+
+----------------------------P M R --------------------------------------
+<+s>: I understood how to structure the code and knew how to use the 
+      conditional statements and logical operators.
+
+<-s>: I don't know how to make the if else structure restart if something
+      is incorrectly chosen. And it took me a little while to finish.
+------------------------------------------------------------------------
+
+In the future I will take a few minutes to make a pseudocode outline of
+the code to save a lot more time. Although the eIMACS tests are very
+confusing to me, I still understand the concepts because I read every
+lesson that is required and the quick references. 

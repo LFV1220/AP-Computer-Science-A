@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestInventory1
+comment0.text=\n\ The\ TestInventory1\ class\ demonstrations\ traversing\ an\ array.\n\n\ @author\ Jean\ E.\ Sammet\n\ @version\ 06/16/17\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=itemList
+comment2.target=void\ printInventory(InventoryItem[])
+comment3.params=itemList
+comment3.target=void\ findLargest(InventoryItem[])
+numComments=4

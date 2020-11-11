@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ShapesTester2
+comment0.text=\n\ This\ class\ demonstrates\ polymorphism\ with\n\ object\ declarations\ and\ the\ static\ method\n\ to\ print\ values.\n\n\ @author\ Poly\ Morphism\n\ @version\ 06/13/17\n
+comment1.params=r
+comment1.target=void\ polyMorph(Rectangle2)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

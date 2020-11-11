@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfoCard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ StudentInfoCard\ here.\ Write\ a\ program\ to\ print\ information\ that\ would\ be\ found\ on\ a\ typical\ Student\ Information\ Card.\r\n\r\n\ @author\ Luis\ Vega\r\n\ @version\ 7/30/19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

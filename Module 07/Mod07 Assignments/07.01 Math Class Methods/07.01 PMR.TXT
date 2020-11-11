@@ -1,0 +1,24 @@
+PROJECT TITLE: 07.01 Java's Math Class
+VERSION or DATE: 10/26/19
+AUTHORS: Luis Vega
+
+Write a program to calculate the (x, y) coordinates of points on a 
+circle of a given radius.
+
+----------------------------- P M R ------------------------------------
+<+s>: This was a relatively simple assignment, thanks to the Math Class
+      syntax in being easy to understand and comprehend. It was also a
+      pretty short program (not too much code).
+
+<-s>: There were some things that took me a while to do. It took me a
+      little bit to understand the calculations, including how to code
+      it. And I still don't have the hang of the printf() so it takes 
+      me alittle bit to use.
+
+------------------------------------------------------------------------
+
+In the future, my goal is to try my hardest to submit 1 assignment each
+day or atleast 5 assignments each week. The reasons I got so behind in 
+the first place, was because of a big project I had for a class and me
+being stuck in the module 6 challenge program. I waited for the live
+lesson because I wanted to understand the material more.

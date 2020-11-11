@@ -1,0 +1,25 @@
+PROJECT TITLE: 07.03-07.04 Defining New Methods
+VERSION or DATE: 10/29/19
+AUTHORS: Luis Vega
+
+Write a program to determine the surface gravity (g) on each planet in
+our solar system. (The results of this assignment will be used in later
+lessons, but will not be submitted for a grade at this time.)
+
+-------------------------- P M R ----------------------------------------
+<+s>: This wasn't too difficult although rather confusing, with the 
+      introduction of static methods. When I broke it up into small pieces
+      (like a puzzle) it was so much easier to do and somewhat understand.
+
+<-s>: I was a little bit confused with this assignment but looked over the
+      eIMACS lesson. Some minor mistakes that came with confusion, which
+      were easily fixed later on (like realizing the read file was for the
+      next assignment). A major problem that I had was with the calculations 
+      for getting the weights (on the 07.04) assignment. 
+
+-------------------------------------------------------------------------
+
+In the future, I need to start planning and making more pseudocode because
+this is starting to get confusing because its like a web or a map, and its
+easy to get lost. I also need to practice my problem solving using sites
+like codingbat.

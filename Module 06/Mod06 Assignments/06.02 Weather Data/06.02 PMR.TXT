@@ -1,0 +1,26 @@
+PROJECT TITLE: 06.02 Weather Data
+VERSION or DATE: 10/10/19
+AUTHORS: Luis Vega
+
+Write a program that displays the average temperature and the annual 
+precipitation for a selected city. The user should be able to choose 
+whether temperature is displayed in Fahrenheit or Celsius and whether 
+precipitation is displayed in inches or centimeters.
+
+------------------------------ P M R -----------------------------------
+<+s>: Making this program was almost a breeze. The arrays were easy to
+      comprehend and understand and breaking it up into two parts made 
+      it alot more easier (6.1 and 6.2). I understood how to structure 
+      the code pretty quickly and I rarely had bugs.
+      
+<-s>: Some of the bugs I had was the formatting with the printf(), since
+      I wasn't using the correct letter (like d for ints and f for 
+      doubles). It took me a little while to figure out how to format the
+      ending printf() statements because it took me a bit to understand
+      how to format using the printf(). 
+------------------------------------------------------------------------
+
+In the future, I have to keep practicing the syntax of the printf()
+statements (since they are a little weird). I can get plenty of 
+practice with them if I keep using them instead of the print() and
+println().

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AnnualWeatherV1
+comment0.text=\n\ Write\ a\ program\ that\ displays\ the\ average\ temperature\ and\ the\ annual\ precipitation\ for\ a\ selected\ city.\ The\ user\ should\ be\ able\ to\ choose\ \n\ \ whether\ temperature\ is\ displayed\ in\ Fahrenheit\ or\ Celsius\ and\ whether\ precipitation\ is\ displayed\ in\ inches\ or\ centimeters.\n\n\ @author\ Luis\ Vega\n\ @version\ 10/9/19\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

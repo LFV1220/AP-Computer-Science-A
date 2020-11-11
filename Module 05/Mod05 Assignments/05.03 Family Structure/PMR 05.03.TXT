@@ -1,0 +1,18 @@
+PROJECT TITLE: 05.03 File Reading 
+VERSION or DATE: 09/28/19
+AUTHORS: Luis Vega
+
+Write a program to calculate the probability that a family with two 
+children will consist of two boys, a boy and a girl, or two girls.
+
+----------------------------- P M R -------------------------------------
+<+s>: This assignment, although I was a bit stumped for a little bit, was 
+      actually really easy. I was overthinking the probability (such as 
+      thinking on how to count everything up and with the calculations).
+
+<-s>: One of the reasons why I was stuck was because of the new (unknown
+      to me) format and syntax for reading text files.
+-------------------------------------------------------------------------
+
+In the future, I will try not to tunnel vision on a particular solution
+to a problem and not hesitate to ask questions. 

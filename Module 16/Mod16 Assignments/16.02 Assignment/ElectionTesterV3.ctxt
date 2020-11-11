@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ElectionTesterV3
+comment0.text=\n\ Write\ a\ description\ of\ class\ ElectionTesterV1\ here.\n\n\ @author\ Luis\ Vega\n\ @version\ 3/13/20\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=candidates
+comment2.target=void\ electionResults(Candidate[])
+comment3.params=candidates
+comment3.target=int\ totalVotes(Candidate[])
+comment4.params=candidates\ find\ replace
+comment4.target=void\ changeItem(Candidate[],\ java.lang.String,\ java.lang.String)
+comment5.params=candidates\ find\ replace
+comment5.target=void\ changeItem(Candidate[],\ int,\ int)
+comment6.params=candidates\ findName\ replaceName\ findVotes\ replaceVotes
+comment6.target=void\ changeItem(Candidate[],\ java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=7

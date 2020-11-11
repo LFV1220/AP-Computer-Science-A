@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ElectionTesterV6
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=candidates
+comment2.target=void\ electionResults(java.util.List)
+comment3.params=candidates
+comment3.target=int\ totalVotes(java.util.List)
+comment4.params=candidates\ find\ replace
+comment4.target=void\ changeItem(java.util.List,\ java.lang.String,\ java.lang.String)
+comment5.params=candidates\ find\ replace
+comment5.target=void\ changeItem(java.util.List,\ int,\ int)
+comment6.params=candidates\ findName\ replaceName\ findVotes\ replaceVotes
+comment6.target=void\ changeItem(java.util.List,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment7.params=candidates\ location\ addN\ addV
+comment7.target=void\ insertItem(java.util.List,\ int,\ java.lang.String,\ int)
+comment8.params=candidates\ find\ addN\ addV
+comment8.target=void\ insertItem(java.util.List,\ java.lang.String,\ java.lang.String,\ int)
+numComments=9

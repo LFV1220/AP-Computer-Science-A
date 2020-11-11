@@ -1,0 +1,19 @@
+PROJECT TITLE: 16.05 Challenge Program
+VERSION or DATE: 3/18/20
+AUTHORS: Luis Vega
+
+For this assignment, employ all the standard algorithm methods. You will 
+be making a grade book program similar to one an instructor might use. 
+The grade book will include students and their grades. The program will 
+traverse, replace, insert, and delete items within the grade book.
+
+------------------------------------------------------------------------
+<+s>: This feels like it was the easiest challenge program is the segment,
+      and maybe even in the course. I understood the algorithms and enjoyed
+      doing this assignment.
+
+<-s>: The hardest part of this assignment was deciding how I wanted to
+      approach this assignment as well as remembering the algorithms,
+      which wasn't hard at all.
+------------------------------------------------------------------------
+

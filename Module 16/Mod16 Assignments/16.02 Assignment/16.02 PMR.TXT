@@ -1,0 +1,16 @@
+PROJECT TITLE: 16.02 Replacements Assignment
+VERSION or DATE: 3/15/20
+AUTHORS: Luis Vega
+
+Create a mock election project to demonstrate traversal algorithms, 
+using the results of a mock election with an arrays and ArrayList.
+
+------------------------------------------------------------------------
+<+s>: This assignment was pretty easy. This greatly helped me understand
+      algorithms. Now I know that algorithms aren't terribly difficult to
+      understand, atleast traversals and replacements aren't. 
+
+<-s>: The only difficulties during the assignment were making the election
+      tester files and even that wasn't difficult, thanks to the lesson
+      notes, it just took some time. 
+------------------------------------------------------------------------

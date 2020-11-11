@@ -1,0 +1,18 @@
+PROJECT TITLE: 16.04 Deletions
+VERSION or DATE: 3/18/20
+AUTHORS: Luis Vega
+
+Working with the mock election, you will establish deletion algorithms
+to make updates to the array and ArrayList for the candidates.
+
+------------------------------------------------------------------------
+<+s>: I have enjoyed learning about algorithms. Although not as simple
+      as the traversals and replacment algorithms, deletions are still
+      more easier than I thought. Also this module (16) has made me 
+      realize how ArrayLists are so much better than arrays in almost
+      every way.
+
+<-s>: The hardest part was just reading and understanding the code which
+      wasn't that hard.
+------------------------------------------------------------------------
+

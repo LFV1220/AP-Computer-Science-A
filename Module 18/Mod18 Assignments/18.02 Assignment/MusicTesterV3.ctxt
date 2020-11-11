@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MusicTesterV3
+comment0.text=\n\ Write\ a\ description\ of\ class\ MusicTesterV3\ here.\n\n\ @author\ Luis\ Vega\n\ @version\ 4/2/20\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=m\ low\ toFind
+comment10.target=void\ linearPrintArtist(Music[],\ int,\ java.lang.String)
+comment11.params=m\ low\ toFind
+comment11.target=void\ linearPrintTitle(Music[],\ int,\ java.lang.String)
+comment2.params=m
+comment2.target=void\ print(Music[])
+comment3.params=source
+comment3.target=void\ selectionTitle(Music[])
+comment4.params=source
+comment4.target=void\ selectionArtist(Music[])
+comment5.params=source
+comment5.target=void\ selectionYear(Music[])
+comment6.params=m\ toFind
+comment6.target=int\ binarySearchTitle(Music[],\ java.lang.String)
+comment7.params=m\ toFind
+comment7.target=void\ binarySearchYear(Music[],\ int)
+comment8.params=m\ toFind
+comment8.target=void\ binarySearchArtist(Music[],\ java.lang.String)
+comment9.params=m\ low\ toFind
+comment9.target=void\ linearPrintYear(Music[],\ int,\ int)
+numComments=12

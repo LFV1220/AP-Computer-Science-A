@@ -1,0 +1,17 @@
+PROJECT TITLE: 18.01 Sequential Search
+VERSION or DATE: 3/31/20
+AUTHORS: Luis Vega
+
+For this assignment, you will create several sequential search methods
+and perform the searches using a collection of music.
+
+------------------------------------------------------------------------
+<+s>: This was a pretty easy assignment. It was very easy to understand
+      sequential search algorithms, especially since its kind of like
+      traversing an array.
+
+<-s>: This assignment was really easy to the point to where the hardest
+      part of making the program was formatting using the printf
+      statements.
+------------------------------------------------------------------------
+

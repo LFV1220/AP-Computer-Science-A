@@ -1,0 +1,17 @@
+PROJECT TITLE: 18.02 Binary Search
+VERSION or DATE: 4/8/20
+AUTHORS: Luis Vega
+
+For this assignment, you will create several binary search methods and
+perform the searches using a collection of music.
+
+------------------------------------------------------------------------
+<+s>: This assignment was a somewhat easy assignment but took me some 
+      time to get it right. I understood why I was implementing all these
+      different sorting algorithms and the print methods.
+
+<-s>: This assignment took me some time to fix some of the problems I 
+      encountered. For example, the sorting algorithms for the years 
+      doesn't work well (if at all).
+------------------------------------------------------------------------
+

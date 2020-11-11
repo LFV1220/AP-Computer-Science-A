@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////////
+//
+// Piwik Analytics code placed in all pages automatically
+//
+//////////////////////////EDITABLE///////////////////////////////
+var _paq_course = "AP Computer Science - flvs_master_v17 (flvs_master_v17)";
+
+var _paq = _paq || [];
+// you can set up to 5 custom variables for each visitor
+_paq.push(["setCustomVariable", 1, "host_location", window.location.hostname, "visit"]);
+_paq.push(["setCustomVariable", 2, "course", _paq_course, "visit"]);
+_paq.push(["setCustomVariable", 3, "session", window.location.pathname.split( '/' )[2], "visit"]);
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+_paq.push(["setCookieDomain", "*.lti.flvsgl.com"]);
+_paq.push(["setDomains", ["*.lti.flvsgl.com"]]);
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var u="//piwik.flvsgl.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();

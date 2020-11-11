@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FibonacciNumbers
+comment0.text=\n\ Write\ a\ program\ to\ recursively\ calculate\ the\ nth\ Fibonacci\ number.\n\n\ @author\ Luis\ Vega\n\ @version\ 1/14/20\n
+comment1.params=n
+comment1.target=int\ fibonacci(int)
+comment1.text=\n\ Accessor\ method\ that\ finds\ the\ number\ in\ the\ fibonacci\ sequence.\n\n\ @param\ \ n\ \ finding\ this\ number\ in\ the\ fibonacci\ sequence.\ \n\ @return\ number\ in\ fibonacci\ if\ the\ number\ is\ not\ 0\ or\ 1.\ \n
+numComments=2

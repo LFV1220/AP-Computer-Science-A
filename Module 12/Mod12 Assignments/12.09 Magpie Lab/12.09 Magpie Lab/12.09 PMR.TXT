@@ -1,0 +1,14 @@
+PROJECT TITLE: 12.09 Magpie Lab
+VERSION or DATE: 2/19/20
+AUTHORS: Luis Vega
+
+------------------------------------------------------------------------
+<+s>: In this lab, I learned/remembered how to use the many String 
+      methods such as the indexOf and the substring String methods. I also
+      learned how a chatbot works.
+
+<-s>: I didn't know how to do the third part of the activity, which was to
+      change from indexOf to findKeyword(). 
+
+------------------------------------------------------------------------
+

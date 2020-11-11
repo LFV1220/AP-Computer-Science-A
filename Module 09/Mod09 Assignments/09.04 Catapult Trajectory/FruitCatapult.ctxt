@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FruitCatapult
+comment0.text=\n\ Write\ a\ program\ to\ calculate\ the\ trajectory\ of\ a\ \n\ projectile\ based\ on\ launch\ angles\ and\ launch\ velocities.\n\n\ @author\ Luis\ Vega\n\ @version\ 12/11/19\n
+comment1.params=mph\ deg\ calc
+comment1.target=FruitCatapult(int[],\ int[],\ double[][])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ FruitCatapult\n
+comment2.params=
+comment2.target=void\ calcTrajectory()
+comment3.params=
+comment3.target=void\ trajectoryOutput()
+comment4.params=
+comment4.target=double[][]\ getTrajectory()
+numComments=5

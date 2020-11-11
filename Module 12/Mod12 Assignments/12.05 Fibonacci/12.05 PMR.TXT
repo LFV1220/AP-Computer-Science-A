@@ -1,0 +1,16 @@
+PROJECT TITLE: 12.05 Fibonacci
+VERSION or DATE: 1/14/20
+AUTHORS: Luis Vega
+
+Write a program to recursively calculate the nth Fibonacci number.
+
+------------------------------------------------------------------------
+<+s>: It was a simple program that only took me so long to finish because
+      I was stuck on a bug. The background information, as per usual, was
+      extremely helpful and useful because of the recursive piecewise 
+      function.
+
+<-s>: What took me so long to finish this program was trying to make the 
+      program quit when 'q' was pressed and continuing if it wasn't
+      pressed.
+------------------------------------------------------------------------

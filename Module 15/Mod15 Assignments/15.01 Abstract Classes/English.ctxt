@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=English
+comment0.text=\n\ Write\ a\ description\ of\ class\ English\ here.\n\n\ @author\ Luis\ Vega\n\ @version\ 3/5/20\n
+comment1.params=
+comment1.target=English()
+comment2.params=numberPages
+comment2.target=void\ setType(int)
+numComments=3

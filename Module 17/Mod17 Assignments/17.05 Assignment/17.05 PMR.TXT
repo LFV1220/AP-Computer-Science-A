@@ -1,0 +1,18 @@
+PROJECT TITLE: 17.05 Challenge Program Assignment
+VERSION or DATE: 3/26/20
+AUTHORS: Luis Vega
+
+Imagine you work in a store and have been asked to keep an inventory of
+the products for sale. Different people have requested that you sort the
+list and print it in various ways. You can do that and will do so using
+each of the different sorting algorithms.
+
+------------------------------------------------------------------------
+<+s>: For this assignment, the structuring of the program was the easiest
+      part of the program.
+
+<-s>: This assignment has been one of the more difficult ones I've had
+      to do in a while. The Sorting algorithms are kind of difficult to
+      understand.
+------------------------------------------------------------------------
+

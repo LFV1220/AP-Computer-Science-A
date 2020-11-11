@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CO2FootprintV2Tester
+comment0.text=\n\ This\ class\ tests\ the\ CO2FootprintV2\ class.\n\ \nAn\ object\ is\ created\ in\ order\ to\ calculate\ tons\ and\ convert\ to\ pounds.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TimeTrialsV7
+comment0.text=\r\n\ Convert\ your\ V3\ object\ class\ to\ V7\ implementation\ and\ client\ classes\ and\ instantiate\ multiple\ objects.\r\n\r\n\ @author\ Luis\ Vega\r\n\ @version\ 11/07/19\r\n
+comment1.params=n\ t1\ t2
+comment1.target=TimeTrialsV7(java.lang.String,\ double,\ double)
+comment2.params=t1\ t2
+comment2.target=double\ findTimeDifference(double,\ double)
+comment3.params=difference
+comment3.target=int\ differenceInMinutes(double)
+numComments=4

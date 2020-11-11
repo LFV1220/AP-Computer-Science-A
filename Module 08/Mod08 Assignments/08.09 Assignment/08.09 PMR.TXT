@@ -1,0 +1,22 @@
+PROJECT TITLE: 08.09 Assignment
+VERSION or DATE: 11/19/19
+AUTHORS: Luis Vega
+
+Using a program that calculates the amount of carbon dioxide emitted 
+for each gallon of gas consumed by a car, insert Javadoc comments where
+appropriate.
+
+----------------------------- P M R --------------------------------------
+<+s>: The Javadoc assignment was easy to understand, since it is based
+      on determining whether a method is a getter, mutator, or 
+      constructor. 
+
+<-s>: There were no difficulties in this assignment (since the Javadoc
+      is very easy to comprehend), but I did have to reference back to
+      the ShapesV9 quite a bit in order to grasp how it was to be
+      formatted. 
+--------------------------------------------------------------------------
+
+In the future, I will incorporate the java docs into my assignments
+moving forward because it helps one understand more of what is going on
+within the code. 

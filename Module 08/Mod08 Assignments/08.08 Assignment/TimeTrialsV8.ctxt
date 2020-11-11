@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TimeTrialsV8
+comment0.text=\n\ Convert\ your\ V3\ object\ class\ to\ V7\ implementation\ and\ client\ classes\ and\ instantiate\ multiple\ objects.\n\n\ @author\ Luis\ Vega\n\ @version\ 11/14/19\n
+comment1.params=n\ t1\ t2
+comment1.target=TimeTrialsV8(java.lang.String,\ double,\ double)
+comment2.params=t1\ t2
+comment2.target=double\ findTimeDifference(double,\ double)
+comment3.params=difference
+comment3.target=int\ differenceInMinutes(double)
+comment4.params=
+comment4.target=void\ calcMinMax()
+comment5.params=
+comment5.target=double\ getMin()
+comment6.params=
+comment6.target=double\ getMax()
+comment7.params=
+comment7.target=double\ getAverage()
+comment8.params=
+comment8.target=void\ output()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,15 @@
+PROJECT TITLE: 08.12 Challenge Program
+VERSION or DATE: 12/7/19
+AUTHORS: Luis Vega
+
+Write a program that models a real-world scenario.
+
+------------------------------------------------------------------------
+<+s>: I understood the assignment I was changing to OOP and had an idea
+      of how it was going to be done. It was going very well in the 
+      beginning and after I figured out how to fix it (had to almost completely
+      redo it) it just clicked and I finally understood what to do.
+
+<-s>: I am not good at pseudo-code. After a few hours (of frustration) on what was            giving  me the problems, I decided to change it a lot and to see what was wrong. 
+
+------------------------------------------------------------------------

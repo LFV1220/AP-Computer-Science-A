@@ -1,0 +1,20 @@
+PROJECT TITLE: 08.11 Assignment
+VERSION or DATE: 11/28/19
+AUTHORS: Luis Vega
+
+Write a program that calculates the amount of carbon dioxide produced
+in a year from waste by a household and compare how recycling can 
+reduce the CO2 footprint.
+
+--------------------------- P M R --------------------------------------
+<+s>: This assignment went well and smooth because it was pretty easy.
+      Learning about the ArrayLists was like learning about arrays (with
+      some extra steps). The background information greatly helped. 
+
+<-s>: It took me a while to understand what this assignment was asking,
+      partly because I was overthinking the calculations. 
+------------------------------------------------------------------------
+
+In the future, I need to keep up with the pace since the deadline is
+nearing (few weeks). I also need to stop overthinking the problems and
+apply previous lessons into the assignments. 

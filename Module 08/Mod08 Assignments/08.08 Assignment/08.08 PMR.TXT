@@ -1,0 +1,20 @@
+PROJECT TITLE: 08.08 Assignment
+VERSION or DATE: 11/17/19
+AUTHORS: Luis Vega
+
+Expand your V7 object implementation class and client class to manage an
+array of data. Find the minimum, maximum, and averages of values.
+
+------------------------------------------------------------------------
+<+s>: The only positive about this assignment was being able to expand
+      from the last assignment.
+      
+<-s>: I don't know what to do to the assignment to fix it. I put a lot 
+      of time into it and just don't know what I'm doing to it anymore.
+      I tried to calculate the min, max, average to add onto it but I
+      am just lost and been working on this assignment for too long
+      (over a week) and don't want to get really behind again. I know 
+      this is an easier assignment, I'm just really confused and out of
+      time (I need to move on to next assignments). 
+------------------------------------------------------------------------
+

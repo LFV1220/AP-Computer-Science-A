@@ -1,0 +1,20 @@
+PROJECT TITLE: 08.07 Constructing Multiple Objects
+VERSION or DATE: 11/07/19
+AUTHORS: Luis Vega
+
+Convert your V3 object class to V7 implementation and client classes 
+and instantiate multiple objects.
+
+------------------------------------------------------------------------
+<+s>: This was a very easy assignment. I only ran into a few syntax
+      errors. This is because of not only using the lesson notes and 
+      class diagram, but by understanding OOP constructors and methods
+      (from the reading).
+
+<-s>: My pseudo-code and class diagrams could have saved me more time if 
+      I focused on them more in order to prepare this assignment. 
+
+------------------------------------------------------------------------
+
+In the future, keep on going with my approach on grasping these new
+concepts.

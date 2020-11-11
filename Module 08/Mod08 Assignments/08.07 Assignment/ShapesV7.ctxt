@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ShapesV7
+comment0.text=\n\ Convert\ your\ V3\ object\ class\ to\ V7\ implementation\ and\ client\ classes\ and\ instantiate\ multiple\ objects.\n\n\ @author\ Luis\ Vega\n\ @version\ 11/07/19\n
+comment1.params=
+comment1.target=ShapesV7()
+comment2.params=s1\ s2
+comment2.target=double\ calcTriArea(int,\ int)
+comment3.params=s1\ s2
+comment3.target=double\ calcHypotenuse(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

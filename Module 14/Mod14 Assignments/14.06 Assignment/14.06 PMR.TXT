@@ -1,0 +1,16 @@
+PROJECT TITLE: 14.06 Assignment
+VERSION or DATE: 2/27/20
+AUTHORS: Luis Vega
+
+Write a program to calculate and count the quantity of prime numbers 
+between a given range.
+
+------------------------------------------------------------------------
+<+s>: Starting the assignment and using OOP was pretty easy. 
+
+<-s>: I will just take the 0 on this assignment. I can't figure out how
+      to figure out how to calculate prime numbers (no equations I could
+      find). Over the past few days, I've been trying many different 
+      things with this but nothing seems to work. 
+------------------------------------------------------------------------
+

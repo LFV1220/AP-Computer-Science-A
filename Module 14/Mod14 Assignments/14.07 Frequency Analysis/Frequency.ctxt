@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Frequency
+comment1.params=file\ newFile
+comment1.target=Frequency(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ setFreq()
+comment3.params=
+comment3.target=void\ printFreq()
+comment4.params=
+comment4.target=double\ getCounter()
+numComments=5

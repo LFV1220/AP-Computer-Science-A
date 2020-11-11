@@ -1,0 +1,21 @@
+PROJECT TITLE: 14.07 Assignment
+VERSION or DATE: 3/4/20
+AUTHORS: Luis Vega
+
+Write a program to perform a frequency analysis of the letters in a 
+message and use the results to decipher a secret message.
+
+------------------------------------------------------------------------
+<+s>: Figuring out the proper way to utilize OOP and the methods were 
+      the easier parts of the assignment.
+
+<-s>: There were many difficulties in this assignment/program. A minor 
+      mistake that took me a while to figure out was when calculating the
+      percentages, trying to use int instead of double. I also wasn't 
+      able to format it well since I couldn't figure out how to use
+      the PrintWriter print function. And I couldn't figure out the 
+      message because I am trying to work/finish assignments quickly 
+      since I fell that I am running out of time in this segment.
+
+------------------------------------------------------------------------
+

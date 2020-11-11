@@ -1,0 +1,16 @@
+PROJECT TITLE: 14.05 Assignment
+VERSION or DATE: 2/26/20
+AUTHORS: Luis Vega
+
+Use the keyword this to distinguish between instance variables and local 
+variables.
+
+------------------------------------------------------------------------
+<+s>: This assignment was one of the easiest this semester/segment so far.
+
+<-s>: The only hard things about this assignment was figuring out which 
+      other assignment I wanted to do this on and if I should add the
+      keyword this to the getter methods.
+
+------------------------------------------------------------------------
+

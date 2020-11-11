@@ -1,0 +1,19 @@
+PROJECT TITLE: 14.03 Caesar Shift Cipher
+VERSION or DATE: 2/25/20
+AUTHORS: Luis Vega
+
+Write a program to encode or decode a message using a Caesar Shift.
+
+------------------------------------------------------------------------
+<+s>: This assignment felt so simple yet so difficult at the same time.
+      The main method was pretty easy, since it was pretty much user
+      input and loops and condition statements. 
+
+<-s>: The hard part came with the other static methods, which were the
+      the Encryption and Decryption methods. It took me so long to figure
+      out how I was going to do it. But it may be because I was so 
+      focused on doing it a certain way and didn't really fully understand
+      the instructions.
+
+------------------------------------------------------------------------
+

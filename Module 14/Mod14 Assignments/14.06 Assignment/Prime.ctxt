@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Prime
+comment1.params=numbers\ primeNumbers\ upper\ lower
+comment1.target=Prime(double[],\ java.lang.String[],\ int,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Prime\n
+comment2.params=
+comment2.target=void\ calc()
+comment3.params=a\ b
+comment3.target=double\ pow(double,\ double)
+numComments=4
